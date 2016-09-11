@@ -12,8 +12,7 @@ rm(list=ls()
 
 # Working directory to UCI HAR Dataset - unzipped
 
-setwd('/Users/heather/Documents/UCI HAR Dataset/');
-
+setwd('/Desktop/Data Science Course/UCI HAR Dataset/');
 
 
 # Read from files
